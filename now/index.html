@@ -1,0 +1,20 @@
+<!doctype html>
+<meta charset=utf-8>
+<title>Hawken</title>
+<meta name=viewport value="width=device-width">
+
+<style>
+  body { font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; }
+</style>
+
+<output data-js="now"><noscript>Offline</noscript></output>
+
+<script type=module>
+let el = document.querySelector('[data-js=now]')
+
+if (new Date().getHours() < 8) {
+  el.textContent = 'Asleep'
+} else if (Math.random() < 0.01) {
+  el.textContent = 'In a car'
+}
+</script>
