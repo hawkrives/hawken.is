@@ -21,3 +21,4 @@
 </style>
 
 - [Tootin' Machine](./tootin-machine.md)
+- [Bacon](./bacon.md)
