@@ -11,6 +11,12 @@
     background-color: #242122;
     color: #efefef;
   }
+  a {
+    color: lightblue;
+  }
+  a:visited {
+    color: pink;
+  }
 }
 </style>
 
