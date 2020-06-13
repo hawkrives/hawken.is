@@ -35,6 +35,6 @@ Clean up. If you want to save the bacon grease, let it cool slightly, then pour 
 
 ## Recipe Notes
 
-Even crispier bacon: For even crispier bacon, fit a metal rack over the foil-lined baking sheet and lay the raw bacon on the rack. Elevating the bacon allows it to cook from all sides and become extra-crispy.
+For even crispier bacon, fit a metal rack over the foil-lined baking sheet and lay the raw bacon on the rack. Elevating the bacon allows it to cook from all sides and become extra-crispy.
 
 Storage: Refrigerate leftover bacon for 1 week or freeze it for up to 3 months; warm the bacon in the microwave before serving.
