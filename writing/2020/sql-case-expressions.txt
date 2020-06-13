@@ -1,0 +1,3 @@
+# SQL peculiarities in db2 (on the AS400), part ?
+
+SQL's `CASE` expression. 

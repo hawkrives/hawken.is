@@ -14,3 +14,4 @@
 </style>
 
 - [airports](./airports.html)
+- [sql case expressions](./sql-case-expressions.html)
