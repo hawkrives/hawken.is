@@ -2,6 +2,15 @@
 status: ok
 ---
 
+<style>
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #242122;
+    color: #efefef;
+  }
+}
+</style>
+
 I kinda want to be on an airport construction committee now.
 
 I'd name each terminal after a city, so instead of "Terminal A" and "Terminal B", you'd have "Terminal Albuquerque" and "Terminal Boston"… 

@@ -1,3 +1,12 @@
+<style>
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: #242122;
+    color: #efefef;
+  }
+}
+</style>
+
 # Tootin' Machine
 
 > Yeah, this batch has blueberries or strawberries, banana, cashew, beans, mushrooms, lettuce, some spinach, pure cherry juice - I think that's it
