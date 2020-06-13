@@ -1,3 +1,7 @@
+<style>
+.footer {display: none;}
+</style>
+
 # SQL peculiarities in db2 (on the AS400), part ?
 
 SQL's `CASE` expression. Turns out that it's an expression, not a statement, so… it's supposed to only be allowed in expression contexts, IE the right-hand side of stuff.
