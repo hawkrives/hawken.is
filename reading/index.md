@@ -16,3 +16,7 @@ books to buy:
 recursive sql queries:
 
 - https://towardsdatascience.com/recursive-sql-queries-with-postgresql-87e2a453f1b
+
+featured:
+
+- https://blog.jessfraz.com/post/size-matters/
