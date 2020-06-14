@@ -12,3 +12,7 @@
 books to buy:
 
 - https://m.barnesandnoble.com/w/tools-for-thought-howard-rheingold/1103854540?ean=9780262681155
+
+recursive sql queries:
+
+- https://towardsdatascience.com/recursive-sql-queries-with-postgresql-87e2a453f1b
