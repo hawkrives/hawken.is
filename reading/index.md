@@ -20,3 +20,8 @@ recursive sql queries:
 featured:
 
 - https://blog.jessfraz.com/post/size-matters/
+
+investigating:
+
+- https://github.com/EmilHernvall/dnsguide/blob/master/chapter1.md
+- https://perso.telecom-paristech.fr/pautet/Ada95/chap03.htm
