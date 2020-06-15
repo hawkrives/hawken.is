@@ -1,9 +1,11 @@
-PC Cash: 
+A history of interest rates at some banks:
+
+Personal Capital Cash: 
 
 	1.05% (2020-03-04)
 	0.05% (2020-03-17)
 
-CK Savings: 
+Credit Karma Savings: 
 
 	1.30% (2020-03-05)
 	0.56% (2020-03-18)
