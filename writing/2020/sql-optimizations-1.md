@@ -105,4 +105,8 @@ I suppose the summary is, I am working to reduce the number of database queries 
 
 I also want to remove the duplicate-row-per-faculty issue from the main query, but that's tangential to the primary goal here, unless our IBM guy identifies it as actually being an issue.
 
+---
+
+Update 1: I have successfully replaced the instructor QoQ lookup (the one that generated duplicate rows) with QoQ lookup from a "give me all the instructors who taught something in 2020-3" query. Seems about the same speed, but I have high hopes that it will scale to notes and times, too.
+
 [^1]: ColdFusion automatically "prepares" any query that you give it, which allows subsequent runs of the same SQL text to happen faster because they don't need to be parsed from a string again. Our DB2 consultant identified "large numbers of query plans" as being detrimental to the performance in the registration page, so I've been keeping that in mind. Doing `WHERE column IN (<cfqueryparam list=yes>)` translates to `WHERE column IN (?, ?, ?, ?, …, ?)`, with one `?` for each value in the list. What this means, practically, is that each size of list that we pass in generates a new prepared query on the database side.
