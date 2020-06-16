@@ -99,7 +99,7 @@ By doing this data caching, I dropped the time taken to evaluate ART 350 (which 
 
 ----
 
-So! That's what's been on my mind over the weekend and for the past few days. I apologize for the length of this email, but I hope that it's helpful in some way.
+So! That's what's been on my mind over the weekend and for the past few days. I hope that this mostly-unfiltered blog post is helpful in some way!
 
 I suppose the summary is, I am working to reduce the number of database queries we perform per row of the course search results from 5+ queries to approx. 1 query per row, if that; ideally, 0 extra INEZ queries per row.
 
