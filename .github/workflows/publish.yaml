@@ -42,5 +42,7 @@ jobs:
       - name: Publish the site
         run: |
           cd pages/
+          ls .
+          git add .
           git commit -am "Publish $(date)"
           git push
