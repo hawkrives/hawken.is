@@ -15,6 +15,13 @@ jobs:
 
     steps:
       - uses: actions/checkout@v2
+        with:
+          path: trunk
+
+      - uses: actions/checkout@v2
+        with:
+          ref: gh-pages
+          path: pages
 
       - name: Get the publish cli
         run: git clone https://github.com/JohnSundell/Publish.git
@@ -22,20 +29,11 @@ jobs:
       - name: Build the publish cli
         run: cd Publish && make
 
-      # - name: Update Homebrew
-      #   run: brew update
-
-      # - name: Get the publish cli
-      #   run: brew install publish
-
       - name: Generate the site
-        run: publish generate
+        run: cd trunk && publish generate && mv Output/ ../pages
 
       - name: Publish the site
         run: |
-          cd Output/
-          git init .
+          cd pages/
           git commit -am "Publish $(date)"
-          git checkout -b gh-pages
-          git remote add origin git@github.com:hawkrives/hawken.is.git
-          git push origin gh-pages
+          git push
