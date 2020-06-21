@@ -33,5 +33,9 @@ jobs:
 
       - name: Publish the site
         run: |
+          cd Output/
+          git init .
           git commit -am "Publish $(date)"
+          git checkout -b gh-pages
+          git remote add origin git@github.com:hawkrives/hawken.is.git
           git push origin gh-pages
