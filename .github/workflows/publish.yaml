@@ -37,7 +37,7 @@ jobs:
           cd pages/
           git rm -rf *
 
-      - name: Move data
+      - name: Move data from source to output
         run: mv trunk/Output/* pages/
 
       - name: Publish the site
