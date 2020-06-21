@@ -1,3 +1,9 @@
+---
+date: 2020-06-13 13:37
+description: bacon? 🥓
+tags: bacon
+---
+
 Source: [https://www.thekitchn.com/how-to-cook-perfect-bacon-in-the-oven-cooking-lessons-from-the-kitchn-107970](https://www.thekitchn.com/how-to-cook-perfect-bacon-in-the-oven-cooking-lessons-from-the-kitchn-107970)
 
 # How To Make Perfect Bacon in the Oven

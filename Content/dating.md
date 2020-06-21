@@ -1,11 +1,8 @@
-<!doctype html>
-<meta charset=utf-8>
 <title>Hawken is dating…</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
 
 <style>
   body { font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; }
-  
+
   blockquote {
     font-family: New York, Palatino, serif;
   }
@@ -27,7 +24,9 @@
 }
 
 blockquote {
-  font-size: 6vw;
+  font-size: 4vw;
+  margin-top: 1em;
+  text-align: center;
 }
 </style>
 

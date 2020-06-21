@@ -1,21 +1,3 @@
-<!doctype html>
-<meta charset=utf-8>
-<title>Hawken is now…</title>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-
-<style>
-  body { font-family: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; }
-</style>
-
-<style>
-@media (prefers-color-scheme: dark) {
-  body {
-    background-color: #000;
-    color: #efefef;
-  }
-}
-</style>
-
 <output data-js="now"><noscript>Offline</noscript></output>
 
 <script type=module>

@@ -6,7 +6,13 @@ import Plot
 struct HawkenDotIs: Website {
     enum SectionID: String, WebsiteSectionID {
         // Add the sections that you want your website to contain here:
-        case posts
+        case cooking
+        case learning
+        case listening
+        case making
+        case reading
+        case researching
+        case writing
     }
 
     struct ItemMetadata: WebsiteItemMetadata {
