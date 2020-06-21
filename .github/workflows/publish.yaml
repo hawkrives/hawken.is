@@ -30,10 +30,12 @@ jobs:
         run: cd Publish && make
 
       - name: Generate the site
-        run: cd trunk && publish generate && mv Output/ ../pages
+        run: cd trunk && publish generate
 
       - name: Publish the site
         run: |
           cd pages/
+          git rm -r * .*
+          mv ../trunk/Output/{*,.*} ./
           git commit -am "Publish $(date)"
           git push
