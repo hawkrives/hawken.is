@@ -5,17 +5,17 @@
 		<description>My website!</description>
 		<link>https://www.hawken.is</link>
 		<language>en</language>
-		<lastBuildDate>Sun, 21 Jun 2020 17:42:05 +0000</lastBuildDate>
-		<pubDate>Sun, 21 Jun 2020 17:42:05 +0000</pubDate>
+		<lastBuildDate>Sun, 21 Jun 2020 17:52:43 +0000</lastBuildDate>
+		<pubDate>Sun, 21 Jun 2020 17:52:43 +0000</pubDate>
 		<ttl>250</ttl>
 		<atom:link href="https://www.hawken.is/feed.rss" rel="self" type="application/rss+xml"/>
 		<item>
 			<guid isPermaLink="true">https://www.hawken.is/cooking/strawberries</guid>
-			<title>strawberries</title>
+			<title>Strawberries</title>
 			<description></description>
 			<link>https://www.hawken.is/cooking/strawberries</link>
 			<pubDate>Sun, 21 Jun 2020 12:38:00 +0000</pubDate>
-			<content:encoded><![CDATA[<p><a href="https://www.onceuponachef.com/recipes/strawberry-muffins.html">https://www.onceuponachef.com/recipes/strawberry-muffins.html</a></p>]]></content:encoded>
+			<content:encoded><![CDATA[<h1>Strawberries</h1><p><a href="https://www.onceuponachef.com/recipes/strawberry-muffins.html">https://www.onceuponachef.com/recipes/strawberry-muffins.html</a></p>]]></content:encoded>
 		</item>
 		<item>
 			<guid isPermaLink="true">https://www.hawken.is/making/soap</guid>
