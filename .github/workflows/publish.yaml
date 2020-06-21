@@ -1,0 +1,28 @@
+---
+name: Publish site
+
+'on':
+  push:
+    branches:
+      - publish
+  pull_request:
+    branches:
+      - publish
+
+jobs:
+  build:
+    runs-on: macos-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Get the publish cli
+        run: brew install publish
+
+      - name: Generate the site
+        run: publish generate
+
+      - name: Publish the site
+        run: |
+          git commit -am "Publish $(date)"
+          git push origin gh-pages
