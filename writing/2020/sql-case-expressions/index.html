@@ -3,12 +3,12 @@
 	<head>
 		<meta charset="UTF-8"/>
 		<meta name="og:site_name" content="hawken.is"/>
-		<link rel="canonical" href="https://www.hawken.is/writing/airports"/>
-		<meta name="twitter:url" content="https://www.hawken.is/writing/airports"/>
-		<meta name="og:url" content="https://www.hawken.is/writing/airports"/>
-		<title>On the Naming of Airport Terminal(s) | hawken.is</title>
-		<meta name="twitter:title" content="On the Naming of Airport Terminal(s) | hawken.is"/>
-		<meta name="og:title" content="On the Naming of Airport Terminal(s) | hawken.is"/>
+		<link rel="canonical" href="https://www.hawken.is/writing/2020/sql-case-expressions"/>
+		<meta name="twitter:url" content="https://www.hawken.is/writing/2020/sql-case-expressions"/>
+		<meta name="og:url" content="https://www.hawken.is/writing/2020/sql-case-expressions"/>
+		<title>SQL peculiarities in db2/AS400 (part 1) | hawken.is</title>
+		<meta name="twitter:title" content="SQL peculiarities in db2/AS400 (part 1) | hawken.is"/>
+		<meta name="og:title" content="SQL peculiarities in db2/AS400 (part 1) | hawken.is"/>
 		<meta name="description" content="My website!"/>
 		<meta name="twitter:description" content="My website!"/>
 		<meta name="og:description" content="My website!"/>
@@ -51,11 +51,22 @@
 		</header>
 		<div class="wrapper">
 			<article>
-				<div class="content"><h1>On the Naming of Airport Terminal(s)</h1><p>I kinda want to be on an airport construction committee now.</p><p>I'd name each terminal after a city, so instead of "Terminal A" and "Terminal B", you'd have "Terminal Albuquerque" and "Terminal Boston"…</p><p>… so you would get things like "Welcome to Denver [terminal]! Your connecting flight leaves from Boston, and you'll need to go through Calvary on your way. Have a great day!"</p></div>
+				<div class="content"><h1>SQL peculiarities in db2/AS400 (part 1)</h1><p>SQL's <code>CASE</code> expression. Turns out that it's an expression, not a statement, so… it's supposed to only be allowed in expression contexts, IE the right-hand side of stuff.</p><pre><code class="language-SQL">WHERE 1 = CASE :student_id WHEN '123' THEN 1 ELSE 0 END
+</code></pre><p>Postgres allows you to do something like the following:</p><pre><code class="language-SQL">WHERE CASE :student_id WHEN '123' THEN 1 = 1 ELSE 0 = 1 END
+</code></pre><p>that is, the entire CASE can evaluate to a boolean value, not just a single value, which db2 requires.</p><p>TODO: document the occasional <code>CAST(? as varchar(100))</code> block required by db2.</p></div>
 				<span>Tagged with: </span>
 				<ul class="tag-list">
 					<li>
-						<a href="/tags/short">short</a>
+						<a href="/tags/sql">sql</a>
+					</li>
+					<li>
+						<a href="/tags/ibmi">ibm-i</a>
+					</li>
+					<li>
+						<a href="/tags/as400">as400</a>
+					</li>
+					<li>
+						<a href="/tags/db2">db2</a>
 					</li>
 				</ul>
 			</article>
