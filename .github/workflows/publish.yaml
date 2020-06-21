@@ -35,7 +35,7 @@ jobs:
       - name: Prepare to publish the site
         run: |
           cd pages/
-          git rm -r *
+          git rm -rf *
       
       - run: mv trunk/Output/* pages/
 
