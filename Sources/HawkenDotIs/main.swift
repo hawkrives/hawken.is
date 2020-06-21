@@ -32,7 +32,6 @@ let path: Path? = nil
 let rssFeedSections: Set<HawkenDotIs.SectionID> = Set(HawkenDotIs.SectionID.allCases)
 let rssFeedConfig: RSSFeedConfiguration? = .default
 let deploymentMethod: DeploymentMethod<HawkenDotIs>? = nil
-let additionalSteps: [PublishingStep<HawkenDotIs>] = []
 let plugins: [Plugin<HawkenDotIs>] = []
 let indentation: Indentation.Kind? = Indentation.Kind.tabs(1)
 
@@ -41,7 +40,6 @@ try HawkenDotIs().publish(using: [
     .optional(.copyResources()),
     .addMarkdownFiles(),
     .sortItems(by: \.date, order: .descending),
-    .group(additionalSteps),
     .generateHTML(withTheme: .foundation, indentation: indentation),
     .unwrap(rssFeedConfig) { config in
         .generateRSSFeed(including: rssFeedSections, config: config)
