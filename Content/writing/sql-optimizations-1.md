@@ -81,7 +81,7 @@ For each associated course…
 
 … and we build up the set of `<option>` tags that get shown to the student.
 
-So that's N\*M + N queries, in the worst case, for each parent course with associated courses, where N is the number of associates, and M is the number of registered courses on the student. However, once a given course has been looked up, this data is cached.
+So that's N \* M + N queries, in the worst case, for each parent course with associated courses, where N is the number of associates, and M is the number of registered courses on the student. However, once a given course has been looked up, this data is cached.
 
 But, there's also the uncached query that looks up the list of associated courses, and I don't think that we can cache it, because we need to check class size limits.
 
