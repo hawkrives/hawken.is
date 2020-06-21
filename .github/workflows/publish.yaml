@@ -16,17 +16,17 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      # - name: Get the publish cli
-      #   run: git clone https://github.com/JohnSundell/Publish.git
-
-      # - name: Build the publish cli
-      #   run: cd Publish && make
-
-      - name: Update Homebrew
-        run: brew update
-
       - name: Get the publish cli
-        run: brew install publish
+        run: git clone https://github.com/JohnSundell/Publish.git
+
+      - name: Build the publish cli
+        run: cd Publish && make
+
+      # - name: Update Homebrew
+      #   run: brew update
+
+      # - name: Get the publish cli
+      #   run: brew install publish
 
       - name: Generate the site
         run: publish generate
