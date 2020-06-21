@@ -1,3 +1,9 @@
+---
+date: 2020-06-15 18:58
+tags: sql, coldfusion, stolaf-sis
+---
+
+
 # SQL optimizations in SIS
 
 > This document is derived from an email I wrote today.
@@ -41,9 +47,9 @@ So. All that is to say, I've been working on ways to reduce the number of querie
 
 I don't want to mimic what we do for instructors – as nice as that is, to do a Query-of-Queries for each type of data, I believe that once we add in GEs, and notes, and meeting rooms, we'd be producing something like 20 times the number of rows we actually want, and I don't think that INEZ would be especially happy about that.
 
-So I've been experimenting with a few different approaches. 
+So I've been experimenting with a few different approaches.
 
-## For GE requirements: 
+## For GE requirements:
 
 1. Perform a listagg of the GEreqs on the course query, to produce a delimited list like `WRI,FOL-N`
 2. Find all of the GE reqs, then store them in a lookup table of [GECODE: PDF url]
@@ -73,9 +79,9 @@ For each associated course…
 
 - Then we query for the meeting times, and we do a QoQ on `fetch_matching_courses` to find the instructors.
 
-… and we build up the set of <option> tags that get shown to the student.
+… and we build up the set of `<option>` tags that get shown to the student.
 
-So that's N*M + N queries, in the worst case, for each parent course with associated courses, where N is the number of associates, and M is the number of registered courses on the student. However, once a given course has been looked up, this data is cached. 
+So that's N\*M + N queries, in the worst case, for each parent course with associated courses, where N is the number of associates, and M is the number of registered courses on the student. However, once a given course has been looked up, this data is cached.
 
 But, there's also the uncached query that looks up the list of associated courses, and I don't think that we can cache it, because we need to check class size limits.
 

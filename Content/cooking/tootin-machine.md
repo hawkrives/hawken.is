@@ -1,17 +1,8 @@
-<style>
-@media (prefers-color-scheme: dark) {
-  body {
-    background-color: #242122;
-    color: #efefef;
-  }
-  a {
-    color: lightblue;
-  }
-  a:visited {
-    color: pink;
-  }
-}
-</style>
+---
+date: 2020-06-12 20:54
+description: blueberries or strawberries, banana, cashew, beans, mushrooms, lettuce, some spinach, pure cherry juice…
+tags: fruit, smoothie
+---
 
 # Tootin' Machine
 
@@ -34,4 +25,4 @@ This is a smoothie recipe.
 
 Put it all in a blender and blend until smooth.
 
-Amounts will come later… 
+Amounts to come!

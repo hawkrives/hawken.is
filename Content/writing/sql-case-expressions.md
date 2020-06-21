@@ -1,8 +1,10 @@
-<style>
-.footer {display: none;}
-</style>
+---
+date: 2020-06-12 11:49
+tags: sql, ibm-i, as400, db2
+series: db2-as400-sql
+---
 
-# SQL peculiarities in db2 (on the AS400), part ?
+# SQL peculiarities in db2/AS400 (part 1)
 
 SQL's `CASE` expression. Turns out that it's an expression, not a statement, so… it's supposed to only be allowed in expression contexts, IE the right-hand side of stuff.
 

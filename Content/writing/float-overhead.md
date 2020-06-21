@@ -1,3 +1,8 @@
+---
+date: 2020-06-14 03:23
+tags: python, profiling, transcript
+---
+
 # Python floats
 
 tonight in Degreepath… I reduced the amount of memory needed, by removing the list of duration floats that it was using to compute the average loop duration. (no, I don't know why I was doing this.)
@@ -35,4 +40,4 @@ In short, instead of storing [dur, dur, dur] and averaging that list, I just …
 
 which is also fewer operations, because it's only needed for progress messages (default every 1,000 iters) and the final output
 
-And we’ve already shown that 1.2 billion floats is 28.8GB… 
+And we’ve already shown that 1.2 billion floats is 28.8GB…
