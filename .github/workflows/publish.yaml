@@ -31,11 +31,16 @@ jobs:
 
       - name: Generate the site
         run: cd trunk && publish generate
+      
+      - name: Prepare to publish the site
+        run: |
+          cd pages/
+          git rm -r *
+      
+      - run: mv trunk/Output/* pages/
 
       - name: Publish the site
         run: |
           cd pages/
-          git rm -r * .*
-          mv ../trunk/Output/{*,.*} ./
           git commit -am "Publish $(date)"
           git push
