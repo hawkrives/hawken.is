@@ -28,12 +28,12 @@ struct HawkenDotIs: Website {
 }
 
 // This will generate your website using the built-in Foundation theme:
+let indentation: Indentation.Kind? = Indentation.Kind.tabs(1)
 let path: Path? = nil
 let rssFeedSections: Set<HawkenDotIs.SectionID> = Set(HawkenDotIs.SectionID.allCases)
-let rssFeedConfig: RSSFeedConfiguration? = .default
+let rssFeedConfig: RSSFeedConfiguration? = RSSFeedConfiguration(indentation: indentation)
 let deploymentMethod: DeploymentMethod<HawkenDotIs>? = nil
 let plugins: [Plugin<HawkenDotIs>] = []
-let indentation: Indentation.Kind? = Indentation.Kind.tabs(1)
 
 try HawkenDotIs().publish(using: [
     .group(plugins.map(PublishingStep.installPlugin)),
