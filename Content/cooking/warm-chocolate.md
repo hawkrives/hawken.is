@@ -20,7 +20,7 @@ Enjoy!
 
 - ¼ cup chocolate chips
 - ½ tbsp hand-softened butter
-- 2 tbsp brown sugar
+- 1 tsp brown sugar
 
 Warm the stick of butter in your hands until soft.
 
