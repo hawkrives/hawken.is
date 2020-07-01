@@ -5,8 +5,8 @@
 		<description>My website!</description>
 		<link>https://www.hawken.is</link>
 		<language>en</language>
-		<lastBuildDate>Wed, 1 Jul 2020 02:18:15 +0000</lastBuildDate>
-		<pubDate>Wed, 1 Jul 2020 02:18:15 +0000</pubDate>
+		<lastBuildDate>Wed, 1 Jul 2020 02:22:17 +0000</lastBuildDate>
+		<pubDate>Wed, 1 Jul 2020 02:22:17 +0000</pubDate>
 		<ttl>250</ttl>
 		<atom:link href="https://www.hawken.is/feed.rss" rel="self" type="application/rss+xml"/>
 		<item>
@@ -15,7 +15,7 @@
 			<description></description>
 			<link>https://www.hawken.is/cooking/warm-chocolate</link>
 			<pubDate>Tue, 30 Jun 2020 21:12:00 +0000</pubDate>
-			<content:encoded><![CDATA[<h1>Warm Chocolate</h1><h2>Version 1</h2><ol><li>Take some butter</li><li>Warm it up (do not melt!)</li><li>Put some chocolate chips in a bowl</li><li>Microwave the chocolate chips for at least 26 seconds</li><li>Add some brown sugar</li><li>Add two slivers of butter</li><li>Mix until well-mixed</li></ol><p>Enjoy!</p><h2>Version 2</h2><ul><li>¼ cup chocolate chips</li><li>½ tbsp hand-softened butter</li><li>2 tbsp brown sugar</li></ul><p>Warm the stick of butter in your hands until soft.</p><p>While you do that, melt the chocolate chips in the microwave for about 30s.</p><p>Mix the chocolate chips, brown sugar, and butter in a bowl.</p><p>Enjoy!</p>]]></content:encoded>
+			<content:encoded><![CDATA[<h1>Warm Chocolate</h1><h2>Version 1</h2><ol><li>Take some butter</li><li>Warm it up (do not melt!)</li><li>Put some chocolate chips in a bowl</li><li>Microwave the chocolate chips for at least 26 seconds</li><li>Add some brown sugar</li><li>Add two slivers of butter</li><li>Mix until well-mixed</li></ol><p>Enjoy!</p><h2>Version 2</h2><ul><li>¼ cup chocolate chips</li><li>½ tbsp hand-softened butter</li><li>1 tsp brown sugar</li></ul><p>Warm the stick of butter in your hands until soft.</p><p>While you do that, melt the chocolate chips in the microwave for about 30s.</p><p>Mix the chocolate chips, brown sugar, and butter in a bowl.</p><p>Enjoy!</p>]]></content:encoded>
 		</item>
 		<item>
 			<guid isPermaLink="true">https://www.hawken.is/writing/2020/couch</guid>
