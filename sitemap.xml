@@ -139,6 +139,18 @@
 		<lastmod>2020-07-01</lastmod>
 	</url>
 	<url>
+		<loc>https://www.hawken.is/writing/2020/work-log-2020-07-01</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+		<lastmod>2020-07-01</lastmod>
+	</url>
+	<url>
+		<loc>https://www.hawken.is/writing/2020/bank-transfers</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+		<lastmod>2020-07-01</lastmod>
+	</url>
+	<url>
 		<loc>https://www.hawken.is/writing/2020/couch</loc>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>

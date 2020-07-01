@@ -5,10 +5,26 @@
 		<description>My website!</description>
 		<link>https://www.hawken.is</link>
 		<language>en</language>
-		<lastBuildDate>Wed, 1 Jul 2020 23:38:11 +0000</lastBuildDate>
-		<pubDate>Wed, 1 Jul 2020 23:38:11 +0000</pubDate>
+		<lastBuildDate>Wed, 1 Jul 2020 23:46:17 +0000</lastBuildDate>
+		<pubDate>Wed, 1 Jul 2020 23:46:17 +0000</pubDate>
 		<ttl>250</ttl>
 		<atom:link href="https://www.hawken.is/feed.rss" rel="self" type="application/rss+xml"/>
+		<item>
+			<guid isPermaLink="true">https://www.hawken.is/writing/2020/work-log-2020-07-01</guid>
+			<title>Work Log, 2020-07-01</title>
+			<description></description>
+			<link>https://www.hawken.is/writing/2020/work-log-2020-07-01</link>
+			<pubDate>Wed, 1 Jul 2020 18:38:00 +0000</pubDate>
+			<content:encoded><![CDATA[<h1>Work Log, 2020-07-01</h1><ol><li>I can't spell "ineligible". There's only one L after the first E. Not two. Nope.</li></ol><ol start="2"><li>You can now see prerequisites listed in the dialog for "you haven't met the prerequisites".</li></ol><ol start="3"><li>The "ineligible" dialog tells you why you're ineligible.</li></ol><ol start="4"><li>Hid IS/IR and internship courses by default. Because you can't register for them in here anyway, and they're essentially just clutter.</li></ol><ol start="5"><li>Added a checkbox for hiding courses with prerequisites that you haven't met.</li></ol><ol start="6"><li>Fixed a few bugs around class year course capacities and variable-credit courses.</li></ol><ol start="7"><li>Prevented you from dropping courses you were auto-registered for, like a conversations program.</li></ol><ol start="8"><li>Fixed blurry text in the dialog on Chrome/Windows (removed a <code>transform: translate()</code>???)</li></ol><ol start="9"><li>The "Course Full (Class Year)" message now reads "Not Open To Class Of 2024". Or "Not Open To Class Of None." Whichever works :-)</li></ol><p>That's the log of work for today!</p>]]></content:encoded>
+		</item>
+		<item>
+			<guid isPermaLink="true">https://www.hawken.is/writing/2020/bank-transfers</guid>
+			<title>On Bank Transfers…</title>
+			<description></description>
+			<link>https://www.hawken.is/writing/2020/bank-transfers</link>
+			<pubDate>Wed, 1 Jul 2020 18:35:00 +0000</pubDate>
+			<content:encoded><![CDATA[<h1>On Bank Transfers…</h1><p>Make sure that youve got the correct accounts picked as the "from" and "to" account.</p><p>I accidentally transferred money <em>out</em> of one today, when I meant to put money <em>in</em>. And ACH transfers can't be cancelled (easily, at least…) sooooo</p><p>Anyway it should all work out, but it's a sobering reminder to actually check the things labeled "from" and "to".</p><p>Simple did everything they could. <strong>I</strong> was the problem. PEBCAK and all that.</p>]]></content:encoded>
+		</item>
 		<item>
 			<guid isPermaLink="true">https://www.hawken.is/cooking/warm-chocolate</guid>
 			<title>Warm Chocolate</title>
