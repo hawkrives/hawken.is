@@ -5,10 +5,26 @@
 		<description>My website!</description>
 		<link>https://www.hawken.is</link>
 		<language>en</language>
-		<lastBuildDate>Thu, 2 Jul 2020 21:42:55 +0000</lastBuildDate>
-		<pubDate>Thu, 2 Jul 2020 21:42:55 +0000</pubDate>
+		<lastBuildDate>Mon, 6 Jul 2020 04:08:54 +0000</lastBuildDate>
+		<pubDate>Mon, 6 Jul 2020 04:08:54 +0000</pubDate>
 		<ttl>250</ttl>
 		<atom:link href="https://www.hawken.is/feed.rss" rel="self" type="application/rss+xml"/>
+		<item>
+			<guid isPermaLink="true">https://www.hawken.is/writing/2020/mario-party</guid>
+			<title>Mario Party</title>
+			<description></description>
+			<link>https://www.hawken.is/writing/2020/mario-party</link>
+			<pubDate>Sun, 5 Jul 2020 21:30:00 +0000</pubDate>
+			<content:encoded><![CDATA[<h1>Mario Party</h1><p>… on Mac, via Dolphin, with two local players and with one multiplayer over the internet, shown on a TV.</p><p>So! Let's get started, shall we?</p><p>I am using <a href="https://dolphin-emu.org">Dolphin</a>, version <code>5.0-12247</code>, on macOS 10.15.4, on a Retina MacBook Pro 2012 with the discrete NVIDIA GeForce GT 650M graphics card.</p><ol><li>Download Dolphin</li><li>Get an ISO for the game you want to play, by extracting it from a physical copy of the game that you own</li><li>Open Dolphin's "Graphics" settings, from the Options menu, and change "Backend" to "Vulkan" (this appears to be a Vulkan-to-Metal translator). I let it use my NVIDIA card, but the integrated Intel card might work as well.</li><li>I left all of the Enhancements at their default settings</li><li>New with Dolphin 5.0-12247, you can convert the ISOs into "rvz" files, via "Convert file" in the context menu. (Smaller on disk, they are.)</li></ol><p>I connected two controllers to my Mac: a Switch Pro Controller, and an off-brand Switch GameCube controller. To connect these to your Mac, open Bluetooth preferences (and make sure Bluetooth is turned on!), then press and hold the little Connect dot on the controller. Then you can connect it to your Mac!</p><p>Once you've got the controllers connected, switch back to Dolphin. Open the Controllers settings, set Port 1 to Standard Controller, and hit Configure.</p><p>From the Device menu on the top left, pick the controller that you want to configure. I looked for the keywords "Pro Controller" to find my pro controller, and the other thing that said "Controller" I deemed to be the GameCube controller.</p><p>I then mapped each of my buttons, as appropriate, and I calibrated the joysticks.</p><p>I don't understand what <code>L-Analog</code> and <code>R-Analog</code> are, or how they differ from <code>L</code> and <code>R</code>, but I set L/R to L/R, and L/R-Analog to Z-L/Z-R.</p><p>I then "save"d these settings as "Pro Controller", and similarly set up the GameCube controller as "GameCube Controller".</p><p>If you want multiple local players, you can select multiple controller port as Standard Controller in the controller settings, and the game will detect them as controllers that are plugged into the console.</p><p>Dolphin has a Tools → Netplay option, which I intend to use, but I have not yet tried.</p>]]></content:encoded>
+		</item>
+		<item>
+			<guid isPermaLink="true">https://www.hawken.is/writing/2020/work-log-2020-07-03</guid>
+			<title>Work Log, 2020-07-03</title>
+			<description></description>
+			<link>https://www.hawken.is/writing/2020/work-log-2020-07-03</link>
+			<pubDate>Fri, 3 Jul 2020 12:00:00 +0000</pubDate>
+			<content:encoded><![CDATA[<h1>Work Log, 2020-07-03</h1><ol><li>Fixed some bugs in the New Student Orientation checklist, <a href="https://www.stolaf.edu/deposited">https://www.stolaf.edu/deposited</a></li></ol><ol start="2"><li>Finished first version of application for students to upload OleCard photos (pending approval by staff)</li></ol><ol start="3"><li>Finished Writing placement survey for incoming students, and updated /deposited to reflect if students are expected to take the survey</li></ol>]]></content:encoded>
+		</item>
 		<item>
 			<guid isPermaLink="true">https://www.hawken.is/writing/2020/work-log-2020-07-02</guid>
 			<title>Work Log, 2020-07-02</title>
