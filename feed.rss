@@ -5,10 +5,18 @@
 		<description>My website!</description>
 		<link>https://www.hawken.is</link>
 		<language>en</language>
-		<lastBuildDate>Mon, 6 Jul 2020 04:08:54 +0000</lastBuildDate>
-		<pubDate>Mon, 6 Jul 2020 04:08:54 +0000</pubDate>
+		<lastBuildDate>Tue, 7 Jul 2020 22:49:48 +0000</lastBuildDate>
+		<pubDate>Tue, 7 Jul 2020 22:49:48 +0000</pubDate>
 		<ttl>250</ttl>
 		<atom:link href="https://www.hawken.is/feed.rss" rel="self" type="application/rss+xml"/>
+		<item>
+			<guid isPermaLink="true">https://www.hawken.is/cooking/five-course-picnic</guid>
+			<title>five-course-picnic</title>
+			<description></description>
+			<link>https://www.hawken.is/cooking/five-course-picnic</link>
+			<pubDate>Tue, 7 Jul 2020 17:47:00 +0000</pubDate>
+			<content:encoded><![CDATA[<ul><li><a href="https://www.thechunkychef.com/easy-lemon-chicken-piccata/">https://www.thechunkychef.com/easy-lemon-chicken-piccata/</a></li></ul>]]></content:encoded>
+		</item>
 		<item>
 			<guid isPermaLink="true">https://www.hawken.is/writing/2020/mario-party</guid>
 			<title>Mario Party</title>
