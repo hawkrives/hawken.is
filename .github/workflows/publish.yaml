@@ -26,12 +26,28 @@ jobs:
       - name: Get the publish cli
         run: git clone https://github.com/JohnSundell/Publish.git
 
+      - name: Restore the Publish cache
+        uses: actions/cache@v2
+        with:
+          path: Publish/.build
+          key: ${{ runner.os }}-spm-${{ hashFiles('**/Package.resolved') }}
+          restore-keys: |
+            ${{ runner.os }}-spm-
+
       - name: Build the publish cli
         run: cd Publish && make
 
+      - name: Restore the Publish cache
+        uses: actions/cache@v2
+        with:
+          path: trunk/.build
+          key: ${{ runner.os }}-spm-${{ hashFiles('**/Package.resolved') }}
+          restore-keys: |
+            ${{ runner.os }}-spm-
+
       - name: Generate the site
         run: cd trunk && publish generate
-      
+
       - name: Prepare to publish the site
         run: |
           cd pages/
