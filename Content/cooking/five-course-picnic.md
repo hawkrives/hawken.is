@@ -37,3 +37,28 @@ Source: [https://www.thechunkychef.com/easy-lemon-chicken-piccata/](https://www.
 4. Reduce the heat to medium low. Add stock, wine, lemon juice, heavy cream, and capers to the same skillet. Whisk to combine and bring the sauce to a low boil. Taste the sauce and adjust salt and pepper if necessary. Simmer the sauce for 3 minutes.
 5. Drain pasta, place in a bowl, drizzle with olive oil and add fresh basil and parsley, and toss to combine.
 6. Slice the chicken into strips and place over cooked pasta. Pour sauce over the top and garnish with chopped parsley and basil.
+
+
+## Croutons
+
+Source: [https://anaffairfromtheheart.com/homemade-croutons-from-leftover-bread/](https://anaffairfromtheheart.com/homemade-croutons-from-leftover-bread/)
+
+### Ingredients
+
+- 8 cups cubes leftover bread, crusts on
+- 2 teaspoons minced garlic
+- 2 teaspoons Italian Seasoning Blend
+- 1/4 cup melted butter
+- Butter for pan prep
+- Sea salt optional
+
+
+### Instructions
+
+1. Preheat oven to 375 degrees. Spritz a cookie sheet with spray butter, or rub with a stick of butter to coat.
+2. Cut slices of bread into the size of croutons you desire. I left the crusts on.
+3.  Lay bread on prepared cookie sheet in a single layer.
+4.  Melt butter and whisk in Italian seasoning and garlic. Drizzle over the top of the bread.
+5.  Bake for 5 minutes, turn bread over. Continue this method every 5 minutes until bread is toasted to your desired crispness. I like mine golden brown on the outside and still soft in the middle. Mine took just under 20 minutes. Watch them closely.
+6.  Sprinkle with sea salt, if desired) when you remove them from the oven. Let cool. Store in an air tight container. Use within one week.
+
