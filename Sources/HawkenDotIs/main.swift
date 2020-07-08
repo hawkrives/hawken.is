@@ -40,7 +40,7 @@ try HawkenDotIs().publish(using: [
     .optional(.copyResources()),
     .addMarkdownFiles(),
     .sortItems(by: \.date, order: .descending),
-    .generateHTML(withTheme: .foundation, indentation: indentation),
+    .generateHTML(withTheme: .hawken, indentation: indentation),
     .unwrap(rssFeedConfig) { config in
         .generateRSSFeed(including: rssFeedSections, config: config)
     },
