@@ -5,10 +5,18 @@
 		<description>My website!</description>
 		<link>https://www.hawken.is</link>
 		<language>en</language>
-		<lastBuildDate>Thu, 9 Jul 2020 00:02:31 +0000</lastBuildDate>
-		<pubDate>Thu, 9 Jul 2020 00:02:31 +0000</pubDate>
+		<lastBuildDate>Wed, 26 Aug 2020 00:31:16 +0000</lastBuildDate>
+		<pubDate>Wed, 26 Aug 2020 00:31:16 +0000</pubDate>
 		<ttl>250</ttl>
 		<atom:link href="https://www.hawken.is/feed.rss" rel="self" type="application/rss+xml"/>
+		<item>
+			<guid isPermaLink="true">https://www.hawken.is/cooking/eggs</guid>
+			<title>Hard-Boiled Eggs</title>
+			<description></description>
+			<link>https://www.hawken.is/cooking/eggs</link>
+			<pubDate>Tue, 25 Aug 2020 19:22:00 +0000</pubDate>
+			<content:encoded><![CDATA[<h1>Hard-Boiled Eggs</h1><p><a href="https://www.allrecipes.com/article/how-to-boil-an-egg/">https://www.allrecipes.com/article/how-to-boil-an-egg/</a></p><ol><li>Place eggs in a saucepan or pot and cover with cold water.</li></ol><ol start="2"><li>Put pan over high heat and bring water to a rolling boil. Remove pan from heat and cover.</li></ol><blockquote><p>How long does it take to boil an egg? Well, actually, you want the water to come just to a boil but not stay there.</p></blockquote><ol start="3"><li>Let the eggs stand in the hot water for 14-17 minutes.</li></ol><ol start="4"><li>Drain eggs and put in a bowl filled with ice water.</li></ol>]]></content:encoded>
+		</item>
 		<item>
 			<guid isPermaLink="true">https://www.hawken.is/cooking/five-course-picnic</guid>
 			<title>Items used for a five-course picnic</title>
