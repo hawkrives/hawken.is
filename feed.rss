@@ -5,10 +5,18 @@
 		<description>My website!</description>
 		<link>https://www.hawken.is</link>
 		<language>en</language>
-		<lastBuildDate>Mon, 7 Sep 2020 13:59:09 +0000</lastBuildDate>
-		<pubDate>Mon, 7 Sep 2020 13:59:09 +0000</pubDate>
+		<lastBuildDate>Sun, 13 Sep 2020 18:18:40 +0000</lastBuildDate>
+		<pubDate>Sun, 13 Sep 2020 18:18:40 +0000</pubDate>
 		<ttl>250</ttl>
 		<atom:link href="https://www.hawken.is/feed.rss" rel="self" type="application/rss+xml"/>
+		<item>
+			<guid isPermaLink="true">https://www.hawken.is/cooking/chocolate-chip-blueberry-muffins</guid>
+			<title>Blueberry Chocolate Chip Muffins</title>
+			<description></description>
+			<link>https://www.hawken.is/cooking/chocolate-chip-blueberry-muffins</link>
+			<pubDate>Sun, 13 Sep 2020 13:15:00 +0000</pubDate>
+			<content:encoded><![CDATA[<h1>Blueberry Chocolate Chip Muffins</h1><blockquote><p>Homemade soft fluffy muffins made with fresh blueberries and chocolate chips. Bake them for breakfast or dessert, a summer favorite.</p></blockquote><p>Source: <a href="https://gatherforbread.com/blueberry-chocolate-chip-muffins/">https://gatherforbread.com/blueberry-chocolate-chip-muffins/</a></p><h2>Ingredients</h2><ul><li>Butter, Softened | ½ cup (aka 8 tbsp, aka 1 stick) |</li><li>Granulated Sugar | ¾ cup |</li><li>Baking Powder | 2 teaspoons |</li><li>Salt | ½ teaspoon |</li><li>Vanilla extract | 1 teaspoon |</li><li>Eggs | 2, large |</li><li>Milk | ½ cup |</li><li>all-purpose or white whole wheat flour | 2 cups |</li><li>Chocolate Chips | 1 cup |</li><li>Blueberries | 1 cup | Frozen</li><li>Flour | 2 teaspoons |</li></ul><h2>Instructions</h2><p>Preheat the oven to 425°F.</p><p>Lightly grease a standard-size muffin pan or line with muffin cups and spray the muffin cups with cooking spray.</p><p>Beat together the butter and sugar until fluffy.</p><p>Beat in the eggs.</p><p>Stir in the milk and vanilla just until combined.</p><p>Scrape down the bowl.</p><p>In a small bowl combine the flour, baking powder, and salt.</p><p>Add to the creamed mixture and mix until fully combined. Do not over mix.</p><p>Stir in the chocolate chips.</p><p>Add the blueberries with the flour to help the blueberries not to sink while baking.</p><p>Scoop the batter into the muffin cups to close to full.</p><p>Bake muffins for about 5 minutes.</p><p>Lower oven temperature to 350.</p><p>Continue to bake 12 to 15 minutes or until a toothpick inserted into the center of one comes out clean.</p>]]></content:encoded>
+		</item>
 		<item>
 			<guid isPermaLink="true">https://www.hawken.is/cooking/eggs</guid>
 			<title>Hard-Boiled Eggs</title>
