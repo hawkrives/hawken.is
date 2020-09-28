@@ -5,8 +5,8 @@
 		<description>My website!</description>
 		<link>https://www.hawken.is</link>
 		<language>en</language>
-		<lastBuildDate>Mon, 28 Sep 2020 19:35:11 +0000</lastBuildDate>
-		<pubDate>Mon, 28 Sep 2020 19:35:11 +0000</pubDate>
+		<lastBuildDate>Mon, 28 Sep 2020 20:08:35 +0000</lastBuildDate>
+		<pubDate>Mon, 28 Sep 2020 20:08:35 +0000</pubDate>
 		<ttl>250</ttl>
 		<atom:link href="https://www.hawken.is/feed.rss" rel="self" type="application/rss+xml"/>
 		<item>
@@ -15,7 +15,7 @@
 			<description>garlic optional</description>
 			<link>https://www.hawken.is/cooking/rosemary-bread</link>
 			<pubDate>Mon, 28 Sep 2020 14:28:00 +0000</pubDate>
-			<content:encoded><![CDATA[<h1>Rosemary Bread</h1><p>https://www.allrecipes.com/recipe/214650/super-easy-rosemary-bread-machine-bread/</p>]]></content:encoded>
+			<content:encoded><![CDATA[<h1>Rosemary Bread</h1><p><a href="https://www.allrecipes.com/recipe/214650/super-easy-rosemary-bread-machine-bread/">https://www.allrecipes.com/recipe/214650/super-easy-rosemary-bread-machine-bread/</a></p>]]></content:encoded>
 		</item>
 		<item>
 			<guid isPermaLink="true">https://www.hawken.is/cooking/chocolate-chip-blueberry-muffins</guid>
