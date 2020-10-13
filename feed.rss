@@ -5,8 +5,8 @@
 		<description>My website!</description>
 		<link>https://www.hawken.is</link>
 		<language>en</language>
-		<lastBuildDate>Mon, 28 Sep 2020 20:08:35 +0000</lastBuildDate>
-		<pubDate>Mon, 28 Sep 2020 20:08:35 +0000</pubDate>
+		<lastBuildDate>Tue, 13 Oct 2020 22:48:33 +0000</lastBuildDate>
+		<pubDate>Tue, 13 Oct 2020 22:48:33 +0000</pubDate>
 		<ttl>250</ttl>
 		<atom:link href="https://www.hawken.is/feed.rss" rel="self" type="application/rss+xml"/>
 		<item>
@@ -15,7 +15,7 @@
 			<description>garlic optional</description>
 			<link>https://www.hawken.is/cooking/rosemary-bread</link>
 			<pubDate>Mon, 28 Sep 2020 14:28:00 +0000</pubDate>
-			<content:encoded><![CDATA[<h1>Rosemary Bread</h1><p><a href="https://www.allrecipes.com/recipe/214650/super-easy-rosemary-bread-machine-bread/">https://www.allrecipes.com/recipe/214650/super-easy-rosemary-bread-machine-bread/</a></p>]]></content:encoded>
+			<content:encoded><![CDATA[<h1>Rosemary Bread</h1><p><a href="https://www.allrecipes.com/recipe/214650/super-easy-rosemary-bread-machine-bread/">https://www.allrecipes.com/recipe/214650/super-easy-rosemary-bread-machine-bread/</a></p><h2>Ingredients</h2><ul><li>1 cup warm water (110°F / 43°C)</li><li>2 ½ teaspoons active dry yeast</li><li>3 tablespoons white sugar</li><li>1 ½ teaspoons salt</li><li>3 tablespoons olive oil</li><li>½ teaspoon ground thyme</li><li>2 teaspoons crushed dried rosemary</li><li>3 cups all-purpose flour</li></ul><h2>Steps</h2><p>Pour the water into the pan of a bread machine, then sprinkle in the yeast and sugar.</p><p>Let the mixture sit in the bread machine until a creamy foam forms on top of the water, about 10 minutes.</p><p>Sprinkle in the salt, then add olive oil, thyme, rosemary, and flour.</p><p>Set the machine for light crust setting, and start the machine.</p>]]></content:encoded>
 		</item>
 		<item>
 			<guid isPermaLink="true">https://www.hawken.is/cooking/chocolate-chip-blueberry-muffins</guid>
