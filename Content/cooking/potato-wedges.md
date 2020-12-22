@@ -6,7 +6,7 @@ date: 2020-12-21 18:56
 
 [source](https://www.theironyou.com/2018/10/salt-pepper-paprika-potato-wedges.html)
 
-Serves 4 as a side  
+Serves 4 as a side.
 
 ## Ingredients
 
