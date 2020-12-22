@@ -7,7 +7,25 @@
 		<lastmod>2020-12-22</lastmod>
 	</url>
 	<url>
+		<loc>https://www.hawken.is/cooking/potato-wedges</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+		<lastmod>2020-12-22</lastmod>
+	</url>
+	<url>
 		<loc>https://www.hawken.is/cooking/snowball-cookies</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+		<lastmod>2020-12-22</lastmod>
+	</url>
+	<url>
+		<loc>https://www.hawken.is/cooking/kombucha</loc>
+		<changefreq>monthly</changefreq>
+		<priority>0.5</priority>
+		<lastmod>2020-12-22</lastmod>
+	</url>
+	<url>
+		<loc>https://www.hawken.is/cooking/pumpkin-bread</loc>
 		<changefreq>monthly</changefreq>
 		<priority>0.5</priority>
 		<lastmod>2020-12-22</lastmod>
