@@ -143,6 +143,10 @@ footer {
     color: #8a8a8a;
 }
 
+ul, ol {
+    margin-left: 40px;
+}
+
 @media (prefers-color-scheme: dark) {
     body {
         background-color: #222;
