@@ -143,7 +143,7 @@ footer {
     color: #8a8a8a;
 }
 
-ul, ol {
+.content ul, .content ol {
     margin-left: 40px;
 }
 
