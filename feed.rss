@@ -5,10 +5,18 @@
 		<description>My website!</description>
 		<link>https://www.hawken.is</link>
 		<language>en</language>
-		<lastBuildDate>Sat, 2 Jan 2021 07:28:00 +0000</lastBuildDate>
-		<pubDate>Sat, 2 Jan 2021 07:28:00 +0000</pubDate>
+		<lastBuildDate>Mon, 25 Jan 2021 04:36:56 +0000</lastBuildDate>
+		<pubDate>Mon, 25 Jan 2021 04:36:56 +0000</pubDate>
 		<ttl>250</ttl>
 		<atom:link href="https://www.hawken.is/feed.rss" rel="self" type="application/rss+xml"/>
+		<item>
+			<guid isPermaLink="true">https://www.hawken.is/writing/2021/cats</guid>
+			<title>On Cats</title>
+			<description></description>
+			<link>https://www.hawken.is/writing/2021/cats</link>
+			<pubDate>Sun, 24 Jan 2021 21:08:00 +0000</pubDate>
+			<content:encoded><![CDATA[<h1>On Cats</h1><blockquote><p>and why they manage to tangle themselves into knots while being fed</p></blockquote><p>Let us reference the following meme:</p><p>./images/cats-feeding-time.jpeg</p><p>First, we have an image of three full food bowls.</p><p>Then, we have an image of a gordion knot of cats[^1] eating from those bowls.</p><p>In my experience, cat feeding time works something like this:</p><ol><li>You pour food into one bowl</li><li>All of the cats start eating from that bowl</li><li>You pour food into the second bowl</li><li>At least one cat abandons the first bowl to attack the second, but they take the most direct path rather than backing up and making a straight shot</li><li>You pour food into the third bowl</li><li>The cat pathfinding algorithm breaks further</li><li>You wind up with the gordion knot of cats</li></ol><p>fin.</p>]]></content:encoded>
+		</item>
 		<item>
 			<guid isPermaLink="true">https://www.hawken.is/cooking/curry-rice</guid>
 			<title>Curry</title>
