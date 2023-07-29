@@ -5,10 +5,18 @@
 		<description>My website!</description>
 		<link>https://www.hawken.is</link>
 		<language>en</language>
-		<lastBuildDate>Sat, 1 May 2021 00:14:42 +0000</lastBuildDate>
-		<pubDate>Sat, 1 May 2021 00:14:42 +0000</pubDate>
+		<lastBuildDate>Sat, 29 Jul 2023 14:10:19 +0000</lastBuildDate>
+		<pubDate>Sat, 29 Jul 2023 14:10:19 +0000</pubDate>
 		<ttl>250</ttl>
 		<atom:link href="https://www.hawken.is/feed.rss" rel="self" type="application/rss+xml"/>
+		<item>
+			<guid isPermaLink="true">https://www.hawken.is/writing/2023/a-new-note</guid>
+			<title>A new note…</title>
+			<description></description>
+			<link>https://www.hawken.is/writing/2023/a-new-note</link>
+			<pubDate>Sat, 29 Jul 2023 10:05:00 +0000</pubDate>
+			<content:encoded><![CDATA[<h1>A new note…</h1><blockquote><p>… is a wonderful thing.</p></blockquote><p>A blank canvas, waiting, watching, wondering what it will become.</p><p>An empty space, liminal, supportive of whatever it becomes.</p><p>Bursting with potential, quiet as a mouse, invisibly embracing any idea.</p><hr><p>Put pen(cil) to paper, and see what comes out.</p>]]></content:encoded>
+		</item>
 		<item>
 			<guid isPermaLink="true">https://www.hawken.is/writing/2021/cats</guid>
 			<title>On Cats</title>
@@ -192,7 +200,7 @@ SELECT article_id, title FROM articles WHERE published &gt; now() - '1 week'
 			<description></description>
 			<link>https://www.hawken.is/researching/banking</link>
 			<pubDate>Mon, 15 Jun 2020 02:32:00 +0000</pubDate>
-			<content:encoded><![CDATA[<h1>A history of interest rates at some banks</h1><h2>Personal Capital Cash</h2><ol><li>1.05% (2020-03-04)</li><li>0.05% (2020-03-17)</li></ol><h2>Credit Karma Savings</h2><ol><li>1.30% (2020-03-05)</li><li>0.56% (2020-03-18)</li><li>0.52% (2020-06-18)</li><li>0.44% (2020-09-01)</li><li>0.40% (2020-10-01)</li><li>0.30% (2021-01-01)</li><li>0.27% (2021-03-01)</li><li>0.20% (2021-04-01)</li><li>0.17% (2021-05-01)</li></ol><h2>Simple</h2><ol><li>2.02%</li><li>1.75% (2019-12-17)</li><li>1.55% (2020-04-02)</li><li>1.40% (2020-05-05)</li><li>1.20% (2020-06-02)</li><li>1.00% (2020-07-01)</li><li>0.80% (2020-08-25)</li><li>0.60% (2020-10-08)</li><li>0.50% (2020-12-10)</li><li>0.40% (2021-01-26)</li><li>Account closed (2021-04-20)</li></ol><h2>Ally</h2><ol><li>1.60% (2019-12-20)</li><li>1.50% (2020-03-13)</li><li>1.25% (2020-05-11)</li><li>1.10% (2020-06-12)</li><li>1.00% (2020-07-08)</li><li>0.80% (2020-08-14)</li><li>0.60% (2020-09-25)</li><li>0.50% (2020-12-10)</li></ol>]]></content:encoded>
+			<content:encoded><![CDATA[<h1>A history of interest rates at some banks</h1><h2>Personal Capital Cash</h2><ol><li>1.05% (2020-03-04)</li><li>0.05% (2020-03-17)</li></ol><h2>Credit Karma Savings</h2><ol><li>1.30% (2020-03-05)</li><li>0.56% (2020-03-18)</li><li>0.52% (2020-06-18)</li><li>0.44% (2020-09-01)</li><li>0.40% (2020-10-01)</li><li>0.30% (2021-01-01)</li><li>0.27% (2021-03-01)</li><li>0.20% (2021-04-01)</li><li>0.17% (2021-05-01)</li><li>0.13% (2021-08-01)</li></ol><h2>Simple</h2><ol><li>2.02%</li><li>1.75% (2019-12-17)</li><li>1.55% (2020-04-02)</li><li>1.40% (2020-05-05)</li><li>1.20% (2020-06-02)</li><li>1.00% (2020-07-01)</li><li>0.80% (2020-08-25)</li><li>0.60% (2020-10-08)</li><li>0.50% (2020-12-10)</li><li>0.40% (2021-01-26)</li><li>Account closed (2021-04-20)</li></ol><h2>Ally</h2><ol><li>1.60% (2019-12-20)</li><li>1.50% (2020-03-13)</li><li>1.25% (2020-05-11)</li><li>1.10% (2020-06-12)</li><li>1.00% (2020-07-08)</li><li>0.80% (2020-08-14)</li><li>0.60% (2020-09-25)</li><li>0.50% (2020-12-10)</li></ol>]]></content:encoded>
 		</item>
 		<item>
 			<guid isPermaLink="true">https://www.hawken.is/writing/2020/float-overhead</guid>
